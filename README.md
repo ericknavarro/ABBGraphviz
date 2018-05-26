@@ -1,7 +1,7 @@
 Información general:
 * Creado por: Erick Navarro
 * Blog: e-navarro.blogspot.com
-* Septiembre - 2015
+* Octubre - 2015
 
 Herramientas utilizadas:
 * JAVA (Lenguaje de programación) (Java(TM) SE Runtime Environment (build 1.8.0_05-b13))
